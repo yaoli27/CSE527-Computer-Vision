@@ -3,12 +3,13 @@
 
 
 
-- HW1:  Image Processing
-- HW2: SIFT features for  scene matching and object recognition
-- HW3: Estimate Depth with Stereo; Image Classification with Bag of SIFT Representation + SVM Classifier
+### HW1: Image Processing
 
-- HW4: 
+### HW2: SIFT features for  scene matching and object recognition
 
-- HW5: Ray casting using Blinn-Phong model; Detection by using faster-RCNN
+### HW3: Estimate Depth with Stereo; Image Classification with Bag of SIFT Representation + SVM Classifier
 
-  
+### HW4: Train Deep Convolutional Networks for Scene Recognition using PyTorch
+
+### HW5: Ray casting using Blinn-Phong model; Detection by using faster-RCNN
+
